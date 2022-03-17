@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da507a6f.chunk.css",
+    "main.js": "/static/js/main.64d76868.chunk.js",
+    "main.js.map": "/static/js/main.64d76868.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.78b12417.js",
+    "runtime-main.js.map": "/static/js/runtime-main.78b12417.js.map",
+    "static/css/2.a0a3a9a7.chunk.css": "/static/css/2.a0a3a9a7.chunk.css",
+    "static/js/2.d14b7309.chunk.js": "/static/js/2.d14b7309.chunk.js",
+    "static/js/2.d14b7309.chunk.js.map": "/static/js/2.d14b7309.chunk.js.map",
+    "static/js/3.e8d84074.chunk.js": "/static/js/3.e8d84074.chunk.js",
+    "static/js/3.e8d84074.chunk.js.map": "/static/js/3.e8d84074.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a0a3a9a7.chunk.css.map": "/static/css/2.a0a3a9a7.chunk.css.map",
+    "static/css/main.da507a6f.chunk.css.map": "/static/css/main.da507a6f.chunk.css.map",
+    "static/js/2.d14b7309.chunk.js.LICENSE.txt": "/static/js/2.d14b7309.chunk.js.LICENSE.txt",
+    "static/media/react-olext_logo.dc1c73a5.svg": "/static/media/react-olext_logo.dc1c73a5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78b12417.js",
+    "static/css/2.a0a3a9a7.chunk.css",
+    "static/js/2.d14b7309.chunk.js",
+    "static/css/main.da507a6f.chunk.css",
+    "static/js/main.64d76868.chunk.js"
+  ]
+}

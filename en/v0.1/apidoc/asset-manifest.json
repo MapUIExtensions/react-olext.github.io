@@ -1,21 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.7961c8de.chunk.css",
-    "main.js": "/build/main.755aa6b2.js",
+    "main.css": "/static/css/main.7640a265.chunk.css",
+    "main.js": "/build/main.ad8ec184.js",
     "runtime-main.js": "/build/bundle.f0f5edae.js",
-    "static/css/2.230bb88c.chunk.css": "/static/css/2.230bb88c.chunk.css",
-    "build/2.c07a55d7.js": "/build/2.c07a55d7.js",
-    "build/2.c07a55d7.js.LICENSE.txt": "/build/2.c07a55d7.js.LICENSE.txt",
+    "static/css/2.f540c885.chunk.css": "/static/css/2.f540c885.chunk.css",
+    "build/2.283c450c.js": "/build/2.283c450c.js",
+    "build/2.283c450c.js.LICENSE.txt": "/build/2.283c450c.js.LICENSE.txt",
+    "configuration.md": "/configuration.md",
+    "glossary.md": "/glossary.md",
+    "images/intro_1.png": "/images/intro_1.png",
+    "images/intro_2.png": "/images/intro_2.png",
+    "images/intro_2_2.png": "/images/intro_2_2.png",
+    "images/intro_3.png": "/images/intro_3.png",
+    "images/intro_4.png": "/images/intro_4.png",
+    "images/intro_5.png": "/images/intro_5.png",
     "index.html": "/index.html",
-    "static/css/2.230bb88c.chunk.css.map": "/static/css/2.230bb88c.chunk.css.map",
-    "static/css/main.7961c8de.chunk.css.map": "/static/css/main.7961c8de.chunk.css.map",
+    "installation.md": "/installation.md",
+    "introduction.md": "/introduction.md",
+    "live_demo.md": "/live_demo.md",
+    "static/css/2.f540c885.chunk.css.map": "/static/css/2.f540c885.chunk.css.map",
+    "static/css/main.7640a265.chunk.css.map": "/static/css/main.7640a265.chunk.css.map",
     "static/media/react-olext_logo.svg": "/static/media/react-olext_logo.dc1c73a5.svg"
   },
   "entrypoints": [
     "build/bundle.f0f5edae.js",
-    "static/css/2.230bb88c.chunk.css",
-    "build/2.c07a55d7.js",
-    "static/css/main.7961c8de.chunk.css",
-    "build/main.755aa6b2.js"
+    "static/css/2.f540c885.chunk.css",
+    "build/2.283c450c.js",
+    "static/css/main.7640a265.chunk.css",
+    "build/main.ad8ec184.js"
   ]
 }
