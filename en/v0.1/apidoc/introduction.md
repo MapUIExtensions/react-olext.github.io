@@ -11,7 +11,7 @@
     free of charge and modify the source code as well.
 </p>
 <p>
-<b>React-OlExt 0.1</b> is the first base version which uses currently the versions OpenLayers 6.13 and React 17.0.2.
+    <b>React-OlExt 0.1</b> is the first base version which uses currently the versions OpenLayers 6.13 and React 17.0.2.
 </p>
 
 <h2>[2] UI Components</h2>
@@ -64,7 +64,7 @@
     <li>Etc...</li>
 </ul>
 <img src="images/intro_3.png" alt="description of image" width="80%">
-<p>
+<p></p>
 <p>
     As show in the figure below, the "Feature Info" option present in the context menu will:
 </p>
