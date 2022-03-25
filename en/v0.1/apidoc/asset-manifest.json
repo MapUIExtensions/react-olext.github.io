@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-olext.github.io/en/v0.1/apidoc/static/css/main.50623478.chunk.css",
-    "main.js": "/react-olext.github.io/en/v0.1/apidoc/build/main.54804b3d.js",
+    "main.js": "/react-olext.github.io/en/v0.1/apidoc/build/main.4fda1f86.js",
     "runtime-main.js": "/react-olext.github.io/en/v0.1/apidoc/build/bundle.e74723cc.js",
     "static/css/2.150a0e9d.chunk.css": "/react-olext.github.io/en/v0.1/apidoc/static/css/2.150a0e9d.chunk.css",
     "build/2.64db6d85.js": "/react-olext.github.io/en/v0.1/apidoc/build/2.64db6d85.js",
@@ -28,6 +28,6 @@
     "static/css/2.150a0e9d.chunk.css",
     "build/2.64db6d85.js",
     "static/css/main.50623478.chunk.css",
-    "build/main.54804b3d.js"
+    "build/main.4fda1f86.js"
   ]
 }
