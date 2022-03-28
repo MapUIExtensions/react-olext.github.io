@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-olext.github.io/en/v0.1/examples/basic-app/static/css/main.e874dc0a.css",
-    "main.js": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/main.66e63965.js",
+    "main.css": "/react-olext.github.io/en/v0.1/examples/basic-app/static/css/main.31bae58b.css",
+    "main.js": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/main.01d65938.js",
     "static/js/572.0082de0a.chunk.js": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/572.0082de0a.chunk.js",
     "static/js/826.58b9fdea.chunk.js": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/826.58b9fdea.chunk.js",
     "static/js/43.c599a923.chunk.js": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/43.c599a923.chunk.js",
@@ -14,8 +14,8 @@
     "static/js/391.52ddc669.chunk.js": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/391.52ddc669.chunk.js",
     "static/media/react-olext_logo.svg": "/react-olext.github.io/en/v0.1/examples/basic-app/static/media/react-olext_logo.dc1c73a575c5172f054e1ca03d4acda1.svg",
     "index.html": "/react-olext.github.io/en/v0.1/examples/basic-app/index.html",
-    "main.e874dc0a.css.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/css/main.e874dc0a.css.map",
-    "main.66e63965.js.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/main.66e63965.js.map",
+    "main.31bae58b.css.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/css/main.31bae58b.css.map",
+    "main.01d65938.js.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/main.01d65938.js.map",
     "572.0082de0a.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/572.0082de0a.chunk.js.map",
     "826.58b9fdea.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/826.58b9fdea.chunk.js.map",
     "43.c599a923.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/43.c599a923.chunk.js.map",
@@ -28,7 +28,7 @@
     "391.52ddc669.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/391.52ddc669.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e874dc0a.css",
-    "static/js/main.66e63965.js"
+    "static/css/main.31bae58b.css",
+    "static/js/main.01d65938.js"
   ]
 }
