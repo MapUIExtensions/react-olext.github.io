@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/css/main.1b43f1bb.css",
-    "main.js": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/main.6bd70b16.js",
+    "main.js": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/main.24f3bda7.js",
     "static/js/572.fe63fd94.chunk.js": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/572.fe63fd94.chunk.js",
     "static/js/826.55e256d3.chunk.js": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/826.55e256d3.chunk.js",
     "static/js/43.fb8ba2aa.chunk.js": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/43.fb8ba2aa.chunk.js",
@@ -13,9 +13,11 @@
     "static/js/787.51ad3f8e.chunk.js": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/787.51ad3f8e.chunk.js",
     "static/js/391.0eaeae75.chunk.js": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/391.0eaeae75.chunk.js",
     "static/media/react-olext_logo.svg": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/media/react-olext_logo.dc1c73a575c5172f054e1ca03d4acda1.svg",
+    "static/media/plane.svg": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/media/plane.ee5d9a611dc6677933c897021d9c840f.svg",
+    "static/media/selected_plane.svg": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/media/selected_plane.ef897d562f8980c36c875e8f70c216ef.svg",
     "index.html": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/index.html",
     "main.1b43f1bb.css.map": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/css/main.1b43f1bb.css.map",
-    "main.6bd70b16.js.map": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/main.6bd70b16.js.map",
+    "main.24f3bda7.js.map": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/main.24f3bda7.js.map",
     "572.fe63fd94.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/572.fe63fd94.chunk.js.map",
     "826.55e256d3.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/826.55e256d3.chunk.js.map",
     "43.fb8ba2aa.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/43.fb8ba2aa.chunk.js.map",
@@ -29,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.1b43f1bb.css",
-    "static/js/main.6bd70b16.js"
+    "static/js/main.24f3bda7.js"
   ]
 }
