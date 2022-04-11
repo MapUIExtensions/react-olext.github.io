@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/css/main.1b43f1bb.css",
-    "main.js": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/main.24f3bda7.js",
+    "main.js": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/main.4df4f8c3.js",
     "static/js/572.fe63fd94.chunk.js": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/572.fe63fd94.chunk.js",
     "static/js/826.55e256d3.chunk.js": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/826.55e256d3.chunk.js",
     "static/js/43.fb8ba2aa.chunk.js": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/43.fb8ba2aa.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/selected_plane.svg": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/media/selected_plane.ef897d562f8980c36c875e8f70c216ef.svg",
     "index.html": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/index.html",
     "main.1b43f1bb.css.map": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/css/main.1b43f1bb.css.map",
-    "main.24f3bda7.js.map": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/main.24f3bda7.js.map",
+    "main.4df4f8c3.js.map": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/main.4df4f8c3.js.map",
     "572.fe63fd94.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/572.fe63fd94.chunk.js.map",
     "826.55e256d3.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/826.55e256d3.chunk.js.map",
     "43.fb8ba2aa.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/rolext-flight-tracking/static/js/43.fb8ba2aa.chunk.js.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.1b43f1bb.css",
-    "static/js/main.24f3bda7.js"
+    "static/js/main.4df4f8c3.js"
   ]
 }
