@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-olext.github.io/en/v0.1/examples/basic-app/static/css/main.08ee3669.css",
+    "main.css": "/react-olext.github.io/en/v0.1/examples/basic-app/static/css/main.3fd1afbe.css",
     "main.js": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/main.61e1c93f.js",
     "static/js/572.0082de0a.chunk.js": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/572.0082de0a.chunk.js",
     "static/js/826.58b9fdea.chunk.js": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/826.58b9fdea.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/391.52ddc669.chunk.js": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/391.52ddc669.chunk.js",
     "static/media/react-olext_logo.svg": "/react-olext.github.io/en/v0.1/examples/basic-app/static/media/react-olext_logo.dc1c73a575c5172f054e1ca03d4acda1.svg",
     "index.html": "/react-olext.github.io/en/v0.1/examples/basic-app/index.html",
-    "main.08ee3669.css.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/css/main.08ee3669.css.map",
+    "main.3fd1afbe.css.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/css/main.3fd1afbe.css.map",
     "main.61e1c93f.js.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/main.61e1c93f.js.map",
     "572.0082de0a.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/572.0082de0a.chunk.js.map",
     "826.58b9fdea.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/826.58b9fdea.chunk.js.map",
@@ -28,7 +28,7 @@
     "391.52ddc669.chunk.js.map": "/react-olext.github.io/en/v0.1/examples/basic-app/static/js/391.52ddc669.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08ee3669.css",
+    "static/css/main.3fd1afbe.css",
     "static/js/main.61e1c93f.js"
   ]
 }
